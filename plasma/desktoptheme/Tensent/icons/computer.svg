@@ -21,12 +21,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#3a3a3a"
+     pagecolor="#c8c8c8"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -35,7 +35,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="973"
+     inkscape:window-height="1019"
      id="namedview62"
      showgrid="true"
      inkscape:snap-bbox="true"
@@ -43,9 +43,9 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:object-paths="true"
-     inkscape:zoom="15.170655"
-     inkscape:cx="18.780767"
-     inkscape:cy="-11.327583"
+     inkscape:zoom="2.6818183"
+     inkscape:cx="-73.758364"
+     inkscape:cy="26.707747"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -78,38 +78,6 @@
        id="style883"
        type="text/css" />
   </defs>
-  <g
-     id="computer">
-    <rect
-       x="-3"
-       y="-36.983051"
-       width="32"
-       height="32"
-       rx="0"
-       ry="0"
-       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
-       id="rect38" />
-    <path
-       id="path881"
-       d="M 13 -35.982422 A 15 15 0 0 0 -2 -20.982422 A 15 15 0 0 0 13 -5.9824219 A 15 15 0 0 0 28 -20.982422 A 15 15 0 0 0 13 -35.982422 z M 5 -29 L 21 -29 C 22.108 -29 23 -28.108 23 -27 L 23 -17 C 23 -15.892 22.108 -15 21 -15 L 14 -15 L 14 -13 L 16.5 -13 C 16.777 -13 17 -12.777 17 -12.5 C 17 -12.223 16.777 -12 16.5 -12 L 9.5 -12 C 9.223 -12 9 -12.223 9 -12.5 C 9 -12.777 9.223 -13 9.5 -13 L 12 -13 L 12 -15 L 5 -15 C 3.892 -15 3 -15.892 3 -17 L 3 -27 C 3 -28.108 3.892 -29 5 -29 z M 5 -28 C 4.446 -28 4 -27.554 4 -27 L 4 -18 L 22 -18 L 22 -27 C 22 -27.554 21.554 -28 21 -28 L 5 -28 z M 4 -17 C 4 -16.446 4.446 -16 5 -16 L 21 -16 C 21.554 -16 22 -16.446 22 -17 L 4 -17 z "
-       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-  </g>
-  <g
-     id="computer-laptop">
-    <path
-       id="path930"
-       d="M 59 -35.982422 C 50.715729 -35.982422 44 -29.266693 44 -20.982422 C 44 -12.698151 50.715729 -5.9824219 59 -5.9824219 C 67.284271 -5.9824219 74 -12.698151 74 -20.982422 C 74 -29.266693 67.284271 -35.982422 59 -35.982422 z M 51 -29 L 67 -29 C 68.108 -29 69 -28.108 69 -27 L 69 -17 C 69 -15.892 68.108 -15 67 -15 L 51 -15 C 49.892 -15 49 -15.892 49 -17 L 49 -27 C 49 -28.108 49.892 -29 51 -29 z M 51 -28 C 50.446 -28 50 -27.554 50 -27 L 50 -17 C 50 -16.446 50.446 -16 51 -16 L 67 -16 C 67.554 -16 68 -16.446 68 -17 L 68 -27 C 68 -27.554 67.554 -28 67 -28 L 51 -28 z M 49.5 -14 L 68.5 -14 C 68.777 -14 69 -13.777 69 -13.5 C 69 -13.223 68.777 -13 68.5 -13 L 49.5 -13 C 49.223 -13 49 -13.223 49 -13.5 C 49 -13.777 49.223 -14 49.5 -14 z "
-       style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-    <rect
-       id="rect928"
-       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
-       ry="0"
-       rx="0"
-       height="32"
-       width="32"
-       y="-36.983051"
-       x="43" />
-  </g>
   <g
      id="22-22-computer-laptop"
      transform="translate(51)">
@@ -278,6 +246,86 @@
            x="-29"
            id="rect903" />
       </g>
+    </g>
+  </g>
+  <g
+     id="computer"
+     transform="translate(6.5,1.9830513)">
+    <rect
+       x="-10.5"
+       y="-40.983051"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0"
+       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
+       id="rect38" />
+    <g
+       transform="translate(32.5,-3.9830513)"
+       id="g937">
+      <path
+         id="path911"
+         d="m -35,-30 c -1.108,0 -2,0.892 -2,2 v 11 c 0,1.108 0.892,2 2,2 h 16 c 1.108,0 2,-0.892 2,-2 v -11 c 0,-1.108 -0.892,-2 -2,-2 z m 0,1 h 16 c 0.554,0 1,0.446 1,1 v 11 c 0,0.554 -0.446,1 -1,1 h -16 c -0.554,0 -1,-0.446 -1,-1 v -11 c 0,-0.554 0.446,-1 1,-1 z"
+         inkscape:connector-curvature="0"
+         style="opacity:0.8;fill:#fafafa;fill-opacity:1" />
+      <rect
+         id="rect913"
+         x="-33"
+         y="-13"
+         width="12"
+         height="1"
+         rx="0"
+         ry="0.5"
+         style="opacity:0.8;fill:#fafafa;fill-opacity:1" />
+      <rect
+         ry="0"
+         y="-15"
+         x="-28"
+         height="2"
+         width="2"
+         id="rect915"
+         style="opacity:0.8;fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:3;stroke-opacity:1;paint-order:stroke fill markers" />
+      <rect
+         style="opacity:0.8;fill:#fafafa;fill-opacity:1;stroke-width:1.22474492"
+         ry="0"
+         rx="0"
+         height="1"
+         width="18"
+         y="-18"
+         x="-36"
+         id="rect917" />
+    </g>
+  </g>
+  <g
+     id="computer-laptop"
+     transform="translate(1,0.983051)">
+    <rect
+       id="rect928"
+       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
+       ry="0"
+       rx="0"
+       height="32"
+       width="32"
+       y="-36.983051"
+       x="43" />
+    <g
+       transform="translate(48,-31.983051)"
+       id="g982"
+       style="opacity:0.8;fill:#eaeaea">
+      <path
+         sodipodi:nodetypes="ssssssssssssssssss"
+         inkscape:connector-curvature="0"
+         d="M 3,3 C 1.892,3 1,3.892 1,5 v 10 c 0,1.108 0.892,2 2,2 h 16 c 1.108,0 2,-0.892 2,-2 V 5 C 21,3.892 20.108,3 19,3 Z m 0,1 h 16 c 0.554,0 1,0.446 1,1 v 10 c 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 V 5 C 2,4.446 2.446,4 3,4 Z"
+         id="path978" />
+      <rect
+         style="stroke-width:0.9534626"
+         ry="0.5"
+         rx="0"
+         height="1"
+         width="20"
+         y="18"
+         x="1"
+         id="rect980" />
     </g>
   </g>
 </svg>

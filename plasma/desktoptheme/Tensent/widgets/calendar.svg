@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="973"
+     inkscape:window-height="1019"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="7.8666667"
-     inkscape:cx="15"
+     inkscape:cx="-9.9152542"
      inkscape:cy="15"
      inkscape:window-x="0"
      inkscape:window-y="36"
@@ -94,14 +94,10 @@
         stop-color:#3daee9;
       }</style>
   </defs>
-  <g
-     transform="translate(0 -904.36)"
-     id="g6">
-    <path
-       id="event"
-       class="ColorScheme-Highlight"
-       d="m30 918.36-16 16h16z"
-       fill="#4285f4"
-       style="fill:#1e96f5;fill-opacity:1" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#5f737d;fill-opacity:1"
+     d="M 30,14 14,30 h 16 z"
+     class="ColorScheme-Highlight"
+     id="event" />
 </svg>
