@@ -34,16 +34,16 @@
      gridtolerance="10"
      guidetolerance="10"
      inkscape:current-layer="svg4379"
-     inkscape:cx="-46.727288"
-     inkscape:cy="56.841266"
+     inkscape:cx="-44.352254"
+     inkscape:cy="87.51994"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-height="973"
+     inkscape:window-height="1023"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
-     inkscape:window-y="36"
-     inkscape:zoom="0.99875"
+     inkscape:window-y="32"
+     inkscape:zoom="1.9975"
      objecttolerance="10"
      pagecolor="#dfe2e4"
      showgrid="true"
@@ -54,34 +54,15 @@
        id="grid839"
        type="xygrid" />
   </sodipodi:namedview>
-  <g
-     id="g856"
-     transform="translate(4.9999998,7.7945092)">
-    <g
-       transform="matrix(2.7560841,0,0,2.7560841,285.1698,35.512168)"
-       id="g918">
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.91022384;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         d="M -69,-5.8269165 A 16.826917,16.826917 0 0 0 -85.826917,11 16.826917,16.826917 0 0 0 -69,27.826917 16.826917,16.826917 0 0 0 -52.173083,11 16.826917,16.826917 0 0 0 -69,-5.8269165 Z m 0,5.17751274 A 11.649404,11.649404 0 0 1 -57.350596,11 11.649404,11.649404 0 0 1 -69,22.649404 11.649404,11.649404 0 0 1 -80.649404,11 11.649404,11.649404 0 0 1 -69,-0.64940376 Z"
-         id="path914" />
-      <circle
-         style="opacity:1;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.45408767;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-         id="circle916"
-         cx="-69"
-         cy="11"
-         r="4" />
-    </g>
-    <text
-       id="text922"
-       y="153.86259"
-       x="8.1468248"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.72747803px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.96818697"
-       xml:space="preserve"><tspan
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:38.72747803px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:0.96818697"
-         y="153.86259"
-         x="8.1468248"
-         id="tspan920"
-         sodipodi:role="line">Tensent</tspan></text>
-  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.28364944px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:1.08209121"
+     x="2.9288061"
+     y="115.47052"
+     id="text922"><tspan
+       sodipodi:role="line"
+       id="tspan920"
+       x="2.9288061"
+       y="115.47052"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.28364944px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fafafa;fill-opacity:1;stroke-width:1.08209121">Tensent</tspan></text>
 </svg>
