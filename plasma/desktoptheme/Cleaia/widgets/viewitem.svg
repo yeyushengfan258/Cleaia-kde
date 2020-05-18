@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="viewitem.svg"
+   id="svg184"
+   version="1.0"
+   height="161"
+   width="257">
+  <metadata
+     id="metadata188">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg184"
+     inkscape:window-maximized="1"
+     inkscape:window-y="32"
+     inkscape:window-x="0"
+     inkscape:cy="111.19997"
+     inkscape:cx="27.735253"
+     inkscape:zoom="8.0000002"
+     showgrid="true"
+     id="namedview186"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#c8c8c8">
+    <inkscape:grid
+       id="grid1102"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+  </defs>
+  <rect
+     id="hint-tile-center"
+     x="49.929993"
+     y="-90.320007"
+     width="40"
+     height="40"
+     style="opacity:0.875;fill:#008000" />
+  <path
+     id="normal-center"
+     d="m 105.00003,20.999997 v 47.999988 h 48 V 20.999997 Z"
+     inkscape:connector-curvature="0"
+     style="opacity:0;fill:#000000;fill-opacity:0.92814373;stroke-width:0.99999964" />
+  <g
+     id="normal-topleft"
+     transform="matrix(0.57142916,0,0,0.57142916,-4.651536,-454.20619)"
+     style="opacity:0;fill:#000000;fill-opacity:0.92814373">
+    <rect
+       x="183.14"
+       y="822.85999"
+       width="7.0000095"
+       height="7.0001078"
+       id="rect62"
+       style="opacity:0.52100004;fill:#000000;fill-opacity:0.92814373;stroke-width:3.50011683" />
+    <g
+       style="fill:#000000;fill-opacity:0.92814373"
+       id="g60">
+      <path
+         d="m 186.14,829.86 h 4 v -4 h -1.4688 c -1.405,0 -2.5312,1.1159 -2.5312,2.5312 z"
+         id="path54"
+         inkscape:connector-curvature="0"
+         style="opacity:0.82273003;fill:#000000;fill-opacity:0.92814373" />
+      <path
+         d="m 185.14,828.39 c 0,-1.9482 1.5884,-3.5312 3.5312,-3.5312 h 1.4688 v 1 h -1.4688 c -1.405,0 -2.5312,1.1159 -2.5312,2.5312 v 1.4688 h -1 z"
+         id="path56"
+         inkscape:connector-curvature="0"
+         style="opacity:0.85;fill:#000000;fill-opacity:0.92814373" />
+      <path
+         d="m 186.14,829.86 h 1 v -1 c 0,-1.4154 0.59498,-2 2,-2 h 1 v -1 h -1.4688 c -1.405,0 -2.5312,1.1159 -2.5312,2.5312 z"
+         id="path58"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.92814373" />
+    </g>
+  </g>
+  <g
+     id="normal-top"
+     transform="matrix(0.36641296,0,0,0.57142728,35.330167,-454.20464)"
+     style="opacity:0;fill:#000000;fill-opacity:0.92814373">
+    <g
+       style="fill:#000000;fill-opacity:0.92814373"
+       id="g71">
+      <path
+         d="m 190.14,825.86 v 4 h 131 v -4 z"
+         id="path65"
+         inkscape:connector-curvature="0"
+         style="opacity:0.82273003;fill:#000000;fill-opacity:0.92814373" />
+      <path
+         d="m 190.14,824.86 v 1 h 131 v -1 z"
+         id="path67"
+         inkscape:connector-curvature="0"
+         style="opacity:0.85;fill:#000000;fill-opacity:0.92814373" />
+      <path
+         d="m 190.14,825.86 v 1 h 131 v -1 z"
+         id="path69"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;fill-opacity:0.92814373" />
+    </g>
+    <rect
+       x="190.14005"
+       y="822.85999"
+       width="131.00006"
+       height="1.9999"
+       id="rect73"
+       style="opacity:0.52100004;fill:#000000;fill-opacity:0.92814373;stroke-width:6.60807753" />
+  </g>
+  <use
+     style="opacity:0"
+     height="100%"
+     width="100%"
+     transform="rotate(90,128.99997,45.000046)"
+     id="normal-right"
+     xlink:href="#normal-top"
+     y="0"
+     x="0" />
+  <use
+     style="opacity:0"
+     height="100%"
+     width="100%"
+     transform="matrix(0,-1,1.0000114,0,83.999795,173.99993)"
+     id="normal-left"
+     xlink:href="#normal-top"
+     y="0"
+     x="0" />
+  <use
+     style="opacity:0"
+     height="100%"
+     width="100%"
+     transform="matrix(1,0,0,-1,9.7013627e-5,89.999994)"
+     id="normal-bottom"
+     xlink:href="#normal-top"
+     y="0"
+     x="0" />
+  <use
+     style="opacity:0"
+     height="100%"
+     width="100%"
+     transform="matrix(-1,0,0,1,258.00004,-1.2372944e-5)"
+     id="normal-topright"
+     xlink:href="#normal-topleft"
+     y="0"
+     x="0" />
+  <use
+     style="opacity:0"
+     height="100%"
+     width="100%"
+     transform="matrix(1,0,0,-1,2.0013627e-5,90.000004)"
+     id="normal-bottomleft"
+     xlink:href="#normal-topleft"
+     y="0"
+     x="0" />
+  <use
+     style="opacity:0"
+     height="100%"
+     width="100%"
+     transform="rotate(-180,129.00001,45.000004)"
+     id="normal-bottomright"
+     xlink:href="#normal-topleft"
+     y="0"
+     x="0" />
+  <path
+     inkscape:label="#selected-center-5"
+     class="ColorScheme-ButtonFocus"
+     style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 18.999999,93.999424 v 47.999996 h 48 V 93.999424 Z"
+     id="hover-center"
+     inkscape:connector-curvature="0" />
+  <path
+     class="ColorScheme-ButtonFocus"
+     style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 19,29.000075 v 48 h 48 v -48 z"
+     id="selected-center"
+     inkscape:connector-curvature="0" />
+  <g
+     id="selected-left"
+     transform="matrix(1,0,0,3.0009825,-171.14285,-2461.4024)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-rule:nonzero;stroke:none;fill-opacity:1"
+       d="m 186.14285,829.85712 v 16 h 4 v -16 z"
+       id="path4119" />
+  </g>
+  <g
+     id="selected-topleft"
+     transform="translate(-171.14285,-800.87282)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4131"
+       d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     id="selected-top"
+     transform="matrix(0.36657704,0,0,1,-50.71201,-800.85704)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4143"
+       d="m 190.14286,825.85714 v 4 h 131 v -4 z"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     id="selected-topright"
+     transform="translate(-254.14285,-800.85704)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"
+       id="path4155" />
+  </g>
+  <g
+     id="selected-right"
+     transform="matrix(1,0,0,3.0000017,-254.14285,-2460.5726)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4167"
+       d="m 325.14286,829.85712 v 16 h -4 v -16 z"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     id="selected-bottomright"
+     transform="rotate(180,128.57142,453.42857)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4131-3"
+       d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     id="selected-bottom"
+     transform="matrix(-0.36657704,0,0,-1,136.7236,906.85726)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4143-6"
+       d="m 190.14286,825.85714 v 4 h 131 v -4 z"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     id="selected-bottomleft"
+     transform="rotate(180,170.07142,453.42862)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;opacity:0.8;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"
+       id="path4155-5" />
+  </g>
+  <path
+     inkscape:label="#selected-center-5"
+     class="ColorScheme-ButtonFocus"
+     style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 104,94.00008 v 48 h 48 v -48 z"
+     id="selected+hover-center"
+     inkscape:connector-curvature="0" />
+  <g
+     inkscape:label="#selected-left-6"
+     id="selected+hover-left"
+     transform="matrix(1,0,0,3.0009825,-86.14285,-2396.4025)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 186.14285,829.85712 v 16 h 4 v -16 z"
+       id="path4119-9-6" />
+  </g>
+  <g
+     inkscape:label="#selected-topleft-7"
+     id="selected+hover-topleft"
+     transform="translate(-86.14285,-735.87282)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4131-9-7"
+       d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     inkscape:label="#selected-top-3"
+     id="selected+hover-top"
+     transform="matrix(0.36657704,0,0,1,34.28799,-735.85704)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4143-7-8"
+       d="m 190.14286,825.85714 v 4 h 131 v -4 z"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     inkscape:label="#selected-topright-8"
+     id="selected+hover-topright"
+     transform="translate(-169.14285,-735.85704)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"
+       id="path4155-3-0" />
+  </g>
+  <g
+     inkscape:label="#selected-right-5"
+     id="selected+hover-right"
+     transform="matrix(1,0,0,3.0000017,-169.14285,-2395.5727)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4167-1-9"
+       d="m 325.14286,829.85712 v 16 h -4 v -16 z"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     inkscape:label="#selected+hover-bottomright"
+     id="selected+hover-bottomright"
+     transform="rotate(180,171.07144,485.92862)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4131-9-7-7"
+       d="m 186.14285,829.8571 h 4 v -4 h -1.46875 c -1.40502,0 -2.53125,1.11588 -2.53125,2.53125 z"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     inkscape:label="#selected+hover-bottom"
+     id="selected+hover-bottom"
+     transform="matrix(-0.36657704,0,0,-1,221.7236,971.85714)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4143-7-8-4"
+       d="m 190.14286,825.85714 v 4 h 131 v -4 z"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <g
+     inkscape:label="#selected+hover-bottomleft"
+     id="selected+hover-bottomleft"
+     transform="rotate(180,212.57143,485.92862)">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 321.14285,825.85714 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"
+       id="path4155-3-0-0" />
+  </g>
+  <g
+     inkscape:label="hover-left"
+     id="hover-left">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.73233"
+       d="m 15,93.983595 v 48.015715 h 4 V 93.983595 Z"
+       id="path4119-9" />
+    <path
+       id="path1113"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.73233"
+       d="M 15,93.98438 V 142 h 2 V 93.98438 Z" />
+  </g>
+  <g
+     inkscape:label="hover-topleft"
+     id="hover-topleft">
+    <path
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 15,93.99914 h 4 v -4 H 17.53125 C 16.12623,89.99914 15,91.11502 15,92.53039 Z"
+       id="path3133"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonFocus" />
+    <path
+       id="path1107"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 19,90 h -1.48633 c -0.69608,0 -1.3249,0.27998 -1.77929,0.73438 C 15.1966,91.30408 15,91.91647 15,92.51562 v 1.46876 h 2 v -0.64649 c 0,-0.37035 0.14874,-0.70538 0.39062,-0.94727 C 17.63251,92.14874 17.96754,92 18.33789,92 H 19 Z"
+       sodipodi:nodetypes="csccccssscc" />
+  </g>
+  <path
+     d="m -39.46875,89.98438 c -1.23621,0 -2.12617,0.92797 -2.35352,2.0996 0.09804,-0.49842 0.21202,-1.00498 0.55665,-1.3496 C -40.81123,90.27998 -40.18241,90 -39.48633,90 H -38 v -0.01562 z"
+     style="color:#1e92ff;fill:#eaeaea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="path1105" />
+  <g
+     inkscape:label="hover-top"
+     id="hover-top">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4143-7"
+       d="m 18.989996,89.99944 v 4 h 48.021592 v -4 z"
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.605456" />
+    <path
+       id="path1094"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.605456"
+       d="M 67,90 H 18.97851 v 2 H 67 Z" />
+  </g>
+  <g
+     inkscape:label="hover-topright"
+     id="hover-topright">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67,89.99944 v 4 h 4 v -1.46875 c 0,-1.40502 -1.11588,-2.53125 -2.53125,-2.53125 z"
+       id="path4155-3" />
+    <path
+       id="path1088"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 71,94 V 92.53125 C 71,91.12623 69.88412,90 68.46875,90 H 67 v 2 h 0.66211 c 0.37035,0 0.70538,0.14874 0.94727,0.39062 C 68.85126,92.63251 69,92.96754 69,93.33789 V 94 Z" />
+  </g>
+  <g
+     inkscape:label="hover-right"
+     id="hover-right">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4167-1"
+       d="M 71.00001,93.999471 V 141.9995 h -4 V 93.999471 Z"
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.73205" />
+    <path
+       id="path1137"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.73205"
+       d="M 71,142 V 94 h -2 v 48 z" />
+  </g>
+  <g
+     inkscape:label="hover-bottomright"
+     id="hover-bottomright">
+    <path
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 71.00003,141.99954 h -4 v 4 h 1.46875 c 1.40502,0 2.53125,-1.11588 2.53125,-2.53125 z"
+       id="path3133-3"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonFocus" />
+    <path
+       id="path1131"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 67,146 h 1.46875 C 69.87377,146 71,144.88412 71,143.46875 V 142 h -2 v 0.66211 c 0,0.37035 -0.14874,0.70538 -0.39062,0.94727 C 68.36749,143.85126 68.03246,144 67.66211,144 H 67 Z" />
+  </g>
+  <g
+     inkscape:label="hover-bottom"
+     id="hover-bottom">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       id="path4143-7-6"
+       d="m 67.021593,145.9997 v -4 H 19.000001 v 4 z"
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.605456" />
+    <path
+       id="path1125"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.605456"
+       d="M 18.97852,146 H 67 v -2 H 18.97852 Z" />
+  </g>
+  <g
+     inkscape:label="hover-bottomleft"
+     id="hover-bottomleft">
+    <path
+       class="ColorScheme-ButtonFocus"
+       inkscape:connector-curvature="0"
+       style="color:#1e92ff;opacity:0.9;fill:#082332;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 19.00001,145.9994 v -4 h -4 v 1.46875 c 0,1.40502 1.11588,2.53125 2.53125,2.53125 z"
+       id="path4155-3-03" />
+    <path
+       id="path1119"
+       style="color:#1e92ff;fill:#32bed2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 15,142 v 1.46875 C 15,144.87377 16.11588,146 17.53125,146 H 19 v -2 h -0.66211 c -0.37035,0 -0.70538,-0.14874 -0.94727,-0.39062 C 17.14874,143.36749 17,143.03246 17,142.66211 V 142 Z" />
+  </g>
+</svg>

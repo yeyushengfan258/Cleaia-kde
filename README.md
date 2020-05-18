@@ -1,6 +1,6 @@
-## Tensent KDE Theme
+## Cleaia KDE Theme
 
-Tensent kde is a light clean theme for KDE Plasma desktop.
+Cleaia kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
@@ -21,8 +21,8 @@ In this repository you'll find:
 GNU GPL v3
 
 ## view
-![view](View-1.jpg?raw=true)
-![view](View-2.jpg?raw=true)
-![view](View-3.jpg?raw=true)
-![view](View-4.jpg?raw=true)
+![view](View-1.png?raw=true)
+![view](View-2.png?raw=true)
+![view](View-3.png?raw=true)
+![view](View-4.png?raw=true)
 

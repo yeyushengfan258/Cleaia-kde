@@ -1,5 +1,5 @@
 
-Tensent sddm theme for KDE Plasma desktop.
+Cleaia sddm theme for KDE Plasma desktop.
 
 ## Installation
 
